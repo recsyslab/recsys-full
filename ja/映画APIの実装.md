@@ -9,7 +9,7 @@ layout: default
 
 # 映画APIの実装
 
-## 映画取得API
+## 映画リスト取得API
 `frontend/src/services/movies/getMovies.ts`
 ```ts
 import { ApiContext, Movie } from '@/types/data';
