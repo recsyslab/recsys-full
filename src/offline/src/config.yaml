@@ -1,0 +1,11 @@
+# Data Settings
+ITEM_ID_FIELD: movie_id
+
+# Selectively Loading
+load_col:
+  inter: [user_id, movie_id, rating]
+  user: [user_id]
+  item: [movie_id]
+
+# Evaluation Settings
+metrics: ["Recall", "MRR", "NDCG", "Hit", "Precision", "MAP"]

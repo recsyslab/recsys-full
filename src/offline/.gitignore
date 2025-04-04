@@ -1,0 +1,6 @@
+__pycache__
+data/
+data-bkup/
+key/
+src/log_tensorboard
+src/saved/
