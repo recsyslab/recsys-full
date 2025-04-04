@@ -69,7 +69,7 @@ offline/data/ml-rdb$
  less tags.csv
 ```
 
-## MovieLensデータベースへの取り込み
+## MovieLensデータベースへの取込み
 ```bash
 offline/data/ml-rdb$
  psql ml_latest_small -U postgres -c "\copy users from 'users.csv' with delimiter E'\t' csv header encoding 'UTF8'"
