@@ -1,5 +1,5 @@
 ---
-title: OMDb APIキーの取得
+title: OMDb APIによる映画データの取得
 layout: default
 ---
 
@@ -7,7 +7,7 @@ layout: default
 
 {% raw %}
 
-# OMDb API
+# OMDb APIによる映画データの取得
 
 ## OMDb APIキーの取得
 1. 下記から【OMDb APIキー】を取得する。
