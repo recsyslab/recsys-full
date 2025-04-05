@@ -9,7 +9,7 @@ layout: default
 
 # ユーザAPIの実装
 
-## ユーザ型の定義
+## データ型
 `frontend/src/types/data.d.ts`
 ```ts
 // API Context
@@ -26,7 +26,8 @@ export type User = {
 // ↑追加
 ```
 
-## ユーザ取得API
+## API
+### ユーザ取得API
 `frontend/src/services/users/getUser.ts`
 ```ts
 import { ApiContext, User } from '@/types/data';
@@ -55,7 +56,7 @@ const getUser = async (email: string): Promise<User> => {
 export default getUser;
 ```
 
-## ユーザ登録API
+### ユーザ登録API
 `frontend/src/services/users/postUser.ts`
 ```tsx
 import { ApiContext, User } from '@/types/data';
