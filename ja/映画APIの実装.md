@@ -9,7 +9,8 @@ layout: default
 
 # 映画APIの実装
 
-## 映画リスト取得API
+## API
+### 映画リスト取得API
 `frontend/src/services/movies/getMovies.ts`
 ```ts
 import { ApiContext, Movie } from '@/types/data';
@@ -36,7 +37,8 @@ const getMovies = async (): Promise<{ movies: Movie[] }> => {
 export default getMovies;
 ```
 
-## インデックスページ
+## ページ
+### インデックスページ
 `frontend/src/app/page.tsx`
 ```tsx
 import { SessionProvider } from 'next-auth/react';
