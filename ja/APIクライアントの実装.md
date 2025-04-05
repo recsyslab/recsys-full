@@ -16,7 +16,7 @@ layout: default
 NEXT_PUBLIC_API_BASE_URL=http://localhost:8000/api/online/  # <- 追加
 ```
 
-## データ型の定義
+## データ型
 `frontend/src/types/data.d.ts`
 ```ts
 // API Context
