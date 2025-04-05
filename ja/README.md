@@ -189,6 +189,7 @@ This site uses [the MovieLens Latest Datasets](https://grouplens.org/datasets/mo
 This site uses [the OMDb API](https://www.omdbapi.com/) but is not endorsed or certified by OMDb API.
 
 ## 更新情報
+- 2025-04-05: recsys-fullを公開
 
 ## 作成者
 龍谷大学 [推薦システム研究室](https://recsyslab.org/) 奥 健太
