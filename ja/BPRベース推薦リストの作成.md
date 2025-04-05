@@ -1,5 +1,5 @@
 ---
-title: BPRベース推薦システムの実装
+title: BPRベース推薦リストの作成
 layout: default
 ---
 
@@ -7,7 +7,7 @@ layout: default
 
 {% raw %}
 
-# BPRベース推薦システムの実装
+# BPRベース推薦リストの作成
 
 ## バックエンド
 
