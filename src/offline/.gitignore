@@ -1,5 +1,5 @@
 __pycache__
 local/
 bkup/
-src/log_tensorboard
-src/saved/
+log_tensorboard
+saved/
