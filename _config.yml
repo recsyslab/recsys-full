@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 google_analytics: G-RC4PD7SK5J
+url: "https://recsyslab.github.io"
+baseurl: "/recsys-full"
 plugins:
   - jekyll-sitemap
-
