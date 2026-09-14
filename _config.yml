@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+google_analytics: G-RC4PD7SK5J
+title: "recsys-full | フルスタック推薦システム開発チュートリアル"
+url: "https://recsyslab.github.io"
+baseurl: "/recsys-full"
+plugins:
+  - jekyll-sitemap
